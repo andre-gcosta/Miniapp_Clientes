@@ -20,6 +20,7 @@ A aplicação roda **diretamente no navegador**, sem necessidade de servidor.
 
 2. Estrutura de Pastas
 ----------------------
+```text
 ├── index.html        -> Página principal
 ├── css/
 │   └── style.css    -> Estilos customizados
@@ -31,6 +32,7 @@ A aplicação roda **diretamente no navegador**, sem necessidade de servidor.
 │   ├── main.js      -> Inicialização da aplicação
 │   └── utils.js     -> Utilitários (popups)
 └── INFO.txt          -> Este arquivo
+```
 
 ---
 
